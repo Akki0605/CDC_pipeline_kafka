@@ -4,15 +4,14 @@ This project demonstrates an end-to-end implementation of Change Data Capture (C
 
 ## Overview
 
-In the dynamic world of data processing and analytics, CDC stands out as a critical technology for real-time data synchronization and streaming. This project integrates CDC with a stack comprising PostgreSQL, Debezium, Kafka, Spark, and Slack to create a comprehensive ecosystem for handling, processing, and monitoring data changes.
+In the dynamic world of data processing and analytics, CDC stands out as a critical technology for real-time data synchronization and streaming. This project integrates CDC with a stack comprising PostgreSQL, Debezium, Kafka to create a comprehensive ecosystem for handling, processing, and monitoring data changes.
 
 ## Technologies Used
 
 - **PostgreSQL:** Open-source relational database known for reliability and SQL standards compliance.
 - **Debezium:** CDC platform efficiently captures row-level changes in databases like PostgreSQL.
 - **Apache Kafka:** High-throughput distributed messaging system serving as the backbone for streaming data changes.
-- **Apache Spark:** Enables advanced data processing, analytics, machine learning, and real-time data transformations.
-- **Slack:** Integrated for real-time notifications and alerts.
+
 
 ## Setup
 
