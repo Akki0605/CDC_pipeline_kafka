@@ -1,4 +1,4 @@
-# Change Data Capture (CDC) Realtime Streaming with Postgres, Debezium, Kafka, Apache Spark, and Slack
+# Change Data Capture (CDC) Realtime Streaming with Postgres, Debezium, Kafka
 
 This project demonstrates an end-to-end implementation of Change Data Capture (CDC) for real-time data synchronization and streaming. The stack includes PostgreSQL, Debezium, Apache Kafka, Apache Spark, and Slack.
 
