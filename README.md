@@ -20,8 +20,7 @@ In the dynamic world of data processing and analytics, CDC stands out as a criti
 
 Use the provided `docker-compose.yml` file to set up Docker containers for Zookeeper, Kafka, Control Center, Debezium, Debezium UI, and PostgreSQL.
 
-```bash
-docker-compose up -d```
+docker-compose up -d
 
 Debezium Connector
 Create a new connector using the provided script or the Debezium UI to capture changes in PostgreSQL.
